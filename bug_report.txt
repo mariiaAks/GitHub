@@ -1,0 +1,16 @@
+Bug_id: 
+Title: 
+Severity: 
+Priority: 
+Summary: 
+Precondition: 
+	1) 
+	2) 
+StepToReproduce: 
+	1) 
+	2) 
+	3)
+Environment: 
+ExpectedResult: 
+ActualResult: 
+Attachments: 
